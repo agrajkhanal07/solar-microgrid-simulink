@@ -3,10 +3,8 @@
 # 
 
 # Simulation of a solar PV + battery storage microgrid system built in MATLAB/Simulink.
-
-# Models MPPT (Perturb \& Observe), battery management logic, grid backup, 
-
-# and parametric optimization of system sizing.
+ Models MPPT (Perturb \& Observe), battery management logic, grid backup, 
+ and parametric optimization of system sizing.
 
 # 
 
@@ -20,5 +18,5 @@
 
 # \## Status
 
-# &#x20;In progress — June 2025
+# &#x20;In progress — June 2026
 
